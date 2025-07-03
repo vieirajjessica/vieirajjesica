@@ -30,9 +30,6 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vieirajjessica&show_icons=true&locale=en" alt="vieirajjessica" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vieirajjessica&" alt="vieirajjessica" /></p>
-
-
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
